@@ -10,6 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 
 public class AbstractPage {
+	//Some comment
 
 	public WebDriver driver;
 
