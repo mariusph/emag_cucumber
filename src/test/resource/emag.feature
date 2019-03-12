@@ -6,7 +6,7 @@ Feature: Does it works
     And we might be redirected to special offer page
     When  I search the "<term>"
     And i click on find button
-    Then it should be dispalyed the "<term>" and number of "<results>"
+   Then it should be dispalyed the "<term>" and number of "<results>"
 
     Examples: 
       | term        | results |
